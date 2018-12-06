@@ -60,6 +60,9 @@ body{
     float: left;
     max-width: 50%;
   }
+  .homejumbo{
+    background-image: url("../images/coverimg.jpg")
+  }
   .alovelace{
     background-image:  url("../images/Ada_Lovelace_portrait.jpg");
   }
